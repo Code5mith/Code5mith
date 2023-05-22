@@ -29,11 +29,13 @@
    Hello my jouney as a software engineer started with the passion to learn everything I could about this programming world - code, unix, linux, theory. Like many other programmers it was difficult for me to pick a niche that I was going to spacialise on because of the overwhelming number of niches in the programming world. But the recent developments in AI and Mechine Learning which by the way it unimaginably remarkable has given me the motivation to continue my programming journey as a data scientist and AI developer. This was also the time i created code smith my youtube channal so that i can document my journey and join this amazing community that had got me to where i am now.
    
    <h2> spacial thank you for : </h2>
- https://www.youtube.com/c/TechWithTim/videos amazing programmer if you are starting out with programming i strongly  recommend you his videos 
+   <a href="https://www.youtube.com/c/TechWithTim/videos"> Tech with tim </a> amazing programmer if you are starting out with programming i strongly  recommend you his videos 
  </br>
-https://www.youtube.com/@Hallden_
+<a href="https://www.youtube.com/@Hallden_"> Hallden </a> Practical self thought programmer 
  
- most coding youtube channals in general.
+ <p></p>
+ 
+ And most coding youtube channals in general.
    
    Every code found here is fully discussed in my <a href="https://youtube.com/@code_smith"> youtube channal </a> where we go through every concept in depth. And feel free to  give as some ideas that you have been working with comment you opinion and 
    
