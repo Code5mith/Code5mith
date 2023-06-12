@@ -7,6 +7,7 @@
 
 <p>My most recent projects </p>
    
+   <a href="https://github.com/Code5mith/Data_Processing-101/blob/main/Pandas.py.ipynb"> Pandas tutorial guide github repo </a>
    <a href="https://youtu.be/x_EctIVo7DM">Video on pandas </a>
 ### 🧰 Languages and Tools
 <p></p>
