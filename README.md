@@ -7,6 +7,7 @@
 
 <p>My most recent projects </p>
    
+   <a href="https://youtu.be/x_EctIVo7DM">Video on pandas </a>
 ### 🧰 Languages and Tools
 <p></p>
 
