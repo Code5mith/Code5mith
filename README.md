@@ -28,7 +28,7 @@
 
 <details>
  <summary><h3>👨‍💻 Code Smith</h3></summary>
-   Hello my jouney as a software engineer started with my curiosity about computers and programming such as - codeing, unix, linux, mechine learning. Like many other programmers it was difficult for me to pick a niche that I was going to spacialise on because of the overwhelming number of niches in the programming world. But the recent developments in AI and Mechine Learning which by the way is unimaginably remarkable has given me the motivation to continue my programming journey as a data scientist and AI developer. This was also the time i created code smith my youtube channal so that i can document my journey and join this amazing community that had got me to where i am now.
+   Hello my jouney as a software engineer started with my curiosity about computers and programming such as - coding, unix, linux, mechine learning. Like many other programmers it was difficult for me to pick a niche that I was going to spacialise on because of the overwhelming number of niches in the programming world. But the recent developments in AI and Mechine Learning which by the way is unimaginably remarkable has given me the motivation to continue my programming journey as a data scientist and AI developer. This was also the time i created code smith my youtube channal so that i can document my journey and join this amazing community that had got me to where i am now.
    
    <h2> spacial thank you for : </h2>
    <a href="https://www.youtube.com/c/TechWithTim/videos"> Tech with tim </a> amazing programmer if you are starting out with programming i strongly  recommend you his videos 
