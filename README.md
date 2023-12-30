@@ -1,7 +1,7 @@
 # <h1> Code Smith </h1>
 
 
-<h3> Hello welcome to code smiths where we explore different theories and practical solutions in the field of python, mechine learning, Android Development. </h3>
+<h3> Hello there, </h3>
 
 ---
 
@@ -29,7 +29,7 @@
 
 <details>
  <summary><h3>👨‍💻 Code Smith</h3></summary>
-   Hello there i hope you are having a greate there. well let tell you a little about my self. My jouney as a software engineer started with my curiosity about computers and programming such as - coding, unix, linux, mechine learning. Like many other programmers it was difficult for me to pick a niche that I was going to spacialise on because of the overwhelming number of niches in the programming world. But the recent developments in AI and Mechine Learning which by the way is unimaginably remarkable has given me the motivation to continue my programming journey in data science, mechine learning. I plan to create Data Driven Powerfull Mobile Apps and models that can scale and learn. 
+   Hello there i hope you are having a great there. well let tell you a little about my self. My jouney as a software engineer started with my curiosity about computers and programming such as - coding, unix, linux, mechine learning. Like many other programmers it was difficult for me to pick a niche that I was going to spacialise on because of the overwhelming number of niches in the programming world. But the recent developments in AI and Mechine Learning which by the way is unimaginably remarkable has given me the motivation to continue my programming journey in data science, mechine learning. I plan to create Data Driven Powerfull Mobile Apps and models that can scale and learn. 
    
    <h2> spacial thank you for : </h2>
    <a href="https://www.youtube.com/c/TechWithTim/videos"> Tech with tim </a> amazing programmer if you are starting out with programming i strongly  recommend you his videos 
