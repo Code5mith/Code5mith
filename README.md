@@ -37,7 +37,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-origin
 <details>
    
  <summary><h3>👨‍💻 Code Smith</h3></summary>
-   Hello there i hope you are having a great there. well let tell you a little about my self. My jouney as a software engineer started with my curiosity about computers and programming such as - coding, unix, linux, mechine learning. Like many other programmers it was difficult for me to pick a niche that I was going to spacialise on because of the overwhelming number of niches in the programming world. But the recent developments in AI and Mechine Learning which by the way is unimaginably remarkable has given me the motivation to continue my programming journey in data science, mechine learning. I plan to create Data Driven Powerfull Mobile Apps and models that can scale and learn. 
+ 
+Hello there i hope you are having a great there. well let me tell you a little about my self. My jouney as a software engineer started with my curiosity about computers and programming - coding, unix, linux, mechine learning. I personally like learning multiple programming languages and frameworks to expand my knowledge and keep my self up to date on new technologies. So far i have learned multiple programming languages in different deciplines from web development to system design and mechine learning. All the technologies i have learned to this date are found on the Languages and Tools field above.
    
 <h3 align="center">Thank you for your time happy coding</h3>
   
