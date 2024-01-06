@@ -35,20 +35,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-origin
 <p></p>
 
 <details>
+   
  <summary><h3>👨‍💻 Code Smith</h3></summary>
    Hello there i hope you are having a great there. well let tell you a little about my self. My jouney as a software engineer started with my curiosity about computers and programming such as - coding, unix, linux, mechine learning. Like many other programmers it was difficult for me to pick a niche that I was going to spacialise on because of the overwhelming number of niches in the programming world. But the recent developments in AI and Mechine Learning which by the way is unimaginably remarkable has given me the motivation to continue my programming journey in data science, mechine learning. I plan to create Data Driven Powerfull Mobile Apps and models that can scale and learn. 
    
-   <h2> spacial thank you for : </h2>
-   <a href="https://www.youtube.com/c/TechWithTim/videos"> Tech with tim </a> amazing programmer if you are starting out with programming i strongly  recommend you his videos 
- </br>
-<a href="https://www.youtube.com/@Hallden_"> Hallden </a> Practical self thought programmer 
- 
- <p></p>
- 
- And ofcourse most coding youtube channals in general.
- 
-   I also have a youtuve channal <a href="https://youtube.com/@code_smith"> code smith </a> and i discuss some topics about python and mechine learning. some vids about android dev 
-   are on the way to. Thats been it catch you next time.
-   
-   <h3 align="center">Thank you for your time happy coding</h3>
+<h3 align="center">Thank you for your time happy coding</h3>
   
