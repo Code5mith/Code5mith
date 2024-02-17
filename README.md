@@ -38,7 +38,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-origin
    
  <summary><h3>👨‍💻 Code Smith</h3></summary>
  
-Hello there i hope you are having a great there. well let me tell you a little about my self. My jouney as a software engineer started with my curiosity about computers and programming - coding, unix, linux, mechine learning. I personally like learning multiple programming languages and frameworks to expand my knowledge and keep my self up to date on new technologies. So far i have learned multiple programming languages in different deciplines from web development to system design and mechine learning. All the technologies i have learned to this date are found on the Languages and Tools field above.
+Hello there i hope you are having a great Day. well let me tell you a little about my self. My jouney as a software engineer started with my curiosity about computers and programming - coding, unix, linux, mechine learning. I personally like learning multiple programming languages and frameworks to expand my knowledge and keep my self up to date on new technologies. So far i have learned multiple programming languages in different deciplines from web development to system design and mechine learning. All the technologies i have learned to this date are found on the Languages and Tools field above.
    
 <h3 align="center">Thank you for your time happy coding</h3>
   
