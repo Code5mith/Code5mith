@@ -36,11 +36,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-origin
 <br />
 <p></p>
 
-<details>
    
  <summary><h3>👨‍💻 Code Smith</h3></summary>
  
-Hello there i hope you are having a great Day. well let me tell you a little about my self. My jouney as a software engineer started with my curiosity about computers and programming - coding, unix, linux, mechine learning. I personally like learning multiple programming languages and frameworks to expand my knowledge and keep my self up to date on new technologies. So far i have learned multiple programming languages in different deciplines from web development to system design and mechine learning. All the technologies i have learned to this date are found on the Languages and Tools field above.
+Hello there welcome to my portfolio My name is <strong>Jacob</strong> ( aka code smith) and  let me tell you a little about my self. My jouney as a programmer started with my curiosity about computers and programming - coding, unix, linux, mechine learning. I started out my programming journey as a frontend developer, But as i want deeper into the field i have grown an interest to backend development and also machine learning. I do have a strong foundation on both Frontend end and also Backend Development, I am proficient in Languages like javascript, Html and Css in Frontend dev. I have very strong foundation and proficiency in python and frameworks like Django, flask and as such. Even if i added Go Lang to my tool kit fairly recently my backgound in C++ has helped me a lot in progressing very quickly in my learing process. I have documented detailed tutorials and my projects on https://github.com/Code5mith/Go-Lang-0-to-100 check it out.
+
+What is my favorite Programming language { Python : "For simplicity", Go-Lang & C++: "Low level understanding" } 
    
 <h3 align="center">Thank you for your time happy coding</h3>
   
