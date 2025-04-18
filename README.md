@@ -36,18 +36,7 @@ Hello! 👋
 
 I’m Code Smith full-stack developer with a strong focus on backend development. I’m passionate about building efficient, scalable solutions. 
 
-I use Python and PHP together to craft my projects, leveraging Python for backend work and tooling, and PHP for web development and frontend tasks. Among PHP frameworks, I particularly like using Laravel. I often turn to PHP for frontend solutions, though I have basic knowledge of JavaScript and React when the situation calls for it.
-
-With Docker, I streamline both development and deployment processes, keeping everything clean and efficient. I thrive in Agile/Scrum environments, delivering results quickly while adapting to new technologies with ease.
-
-Tech Stack Highlights:
-
-<ul>
-   <li>Backend: Python, PHP (Laravel)</li>
-   <li>Frontend: PHP, JavaScript (React, Vanilla)</li>
-   <li>Infrastructure: Docker</li>
-   <li>Methodologies: Agile/Scrum</li>
-</ul>
+Python and PHP are my go to for faster development and deployment in addition i personally prefer to adopt new languages and tools as much as possible.
    
-<h3 align="center">Thank you for your time happy coding</h3>
+<h3 align="center">Thank you for your time. Feel free to explore my Projects.</h3>
   
