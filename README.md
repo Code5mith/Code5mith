@@ -3,9 +3,9 @@
 
 <h3> Hello there, welcome to my portfolio.</h3>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Code5mith&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) 
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Code5mith&show_icons=true&theme=merko#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code5mith&layout=donut-vertical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code5mith&layout=compact)
 ---
 
 ### 🧰 Languages and Tools
@@ -35,15 +35,17 @@
    
  <summary><h3>👨‍💻 Code Smith</h3></summary>
  
-Hello! 👋
+Hello! I'm <b> Code Smith </b> , a Full-Stack Developer with a solid foundation in computer science fundamentals.
 
-Passionate programmer with a strong foundation in computer science fundamentals, with a particular focus on backend development, data science, and machine learning.
+<h3> Proficient in: </h3>
+<ul>
+   <li> <b> Languages: </b> Python, C, PHP, JavaScript </li>
+   <li> <b> Frameworks: </b> Django, React, Flask, Laravel </li>
+</ul>
 
-My journey has taken me through various languages, including Python, C, and PHP, each shaping my understanding of different paradigms. My go-to frameworks would be Django, Flask, and Laravel; this is where my expertise lies. Complementing this, I have experience with JavaScript and its associated frameworks, enabling me to understand and interact with the full stack.
+I'm a strong believer in Agile software development methodologies, as they've helped me build a robust foundation in <b> Project managment </b> and  <b> Teamwork </b> . My workflow also heavily integrates AI technologies for automation, data processing and quick insights into problems.
 
-I am a big advocate of Agile Software development; adapting this workflow has given me a very strong foundation in teamwork and coordination. I also extensively incorporate AI into my workflow, leveraging local models and AI agents to streamline processes for myself and my team. 
+Learning is a core value for me, I'm actively and continuously adding new tools and languages to my experience. I value collaboration and am always open to connecting with fellow professionals in the tech community
 
-I'm constantly exploring new technologies and approaches, eager to apply my skills to impactful projects and contribute to innovative teams. I'm approachable, collaborative, and always looking to connect with fellow enthusiasts in the tech community. Let's build something great!
-   
 <h3 align="center">Thank you for your time. Feel free to explore my Projects.</h3>
   
