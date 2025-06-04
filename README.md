@@ -40,7 +40,7 @@ Hello! I'm <b> Code Smith </b> , a Full-Stack Developer with a solid foundation 
 <h3> Proficient in: </h3>
 <ul>
    <li> <b> Languages: </b> Python, C, PHP, JavaScript </li>
-   <li> <b> Frameworks: </b> Django, React, Flask, Laravel </li>
+   <li> <b> Frameworks: </b> Django, React, Flask, Laravel, FastAPI </li>
 </ul>
 
 I'm a strong believer in Agile software development methodologies, as they've helped me build a robust foundation in <b> Project managment </b> and  <b> Teamwork </b> . My workflow also heavily integrates AI technologies for automation, data processing and quick insights into problems.
