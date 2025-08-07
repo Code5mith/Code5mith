@@ -43,9 +43,8 @@ Hello! I'm <b> Code Smith </b> , a Full-Stack Developer with a solid foundation 
    <li> <b> Frameworks: </b> Django, React, Flask, Laravel, FastAPI </li>
 </ul>
 
-I am a programmer with over three years of personal development experience, specializing in backend development. I am passionate about building robust, scalable, and secure systems, with a particular focus on creating innovative applications in the fintech industry. I am familiar with diverse backend technologies and am committed to continuously adding new skills to my repertoire.
+Programmer with over three years of personal development experience, specializing in backend development. I am passionate about building robust, scalable, and secure systems, with a particular focus on creating innovative applications in the fintech industry. I am familiar with diverse backend technologies and am committed to continuously adding new skills to my repertoire.
 
-Beyond the code, I bring a collaborative approach, a creative mindset, and a strong drive for personal and professional growth. I am currently seeking an internship position where I can contribute to a team and apply my skills in a real-world setting.
-
+Beyond the code, I bring a collaborative approach, a creative mindset, and a strong drive for personal and professional growth.
 <h3 align="center">Thank you for your time. Feel free to explore my Projects.</h3>
   
