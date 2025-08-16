@@ -35,7 +35,7 @@
    
  <summary><h3>👨‍💻 Code Smith</h3></summary>
  
-Hello! I'm <b> Code Smith </b> , a Full-Stack Developer with a solid foundation in computer science fundamentals.
+Hello! I'm <b> Code Smith </b> , a Backend Developer with a solid foundation in computer science fundamentals.
 
 <h3> Proficient in: </h3>
 <ul>
