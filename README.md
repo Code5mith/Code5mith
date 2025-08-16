@@ -40,11 +40,14 @@ Hello! I'm <b> Code Smith </b> , a Full-Stack Developer with a solid foundation 
 <h3> Proficient in: </h3>
 <ul>
    <li> <b> Languages: </b> Python, C, PHP, JavaScript </li>
-   <li> <b> Frameworks: </b> Django, React, Flask, Laravel, FastAPI </li>
+   <li> <b> Frameworks: </b> Django, Flask, Laravel, FastAPI, Langchain </li>
 </ul>
 
-Programmer with over three years of personal development experience, specializing in backend development. I am passionate about building robust, scalable, and secure systems, with a particular focus on creating innovative applications in the fintech industry. I am familiar with diverse backend technologies and am committed to continuously adding new skills to my repertoire.
+As a backend developer, I specialize in building robust and scalable systems. My professional focus is on machine learning and AI development, where I design and deploy intelligent, data-driven applications. I leverage my backend expertise to architect the core infrastructure, establish data pipelines, and build the APIs necessary to integrate and serve AI models in a production environment.
+
+My work is driven by the goal of using AI to solve complex business challenges, from automating workflows and making data-driven decisions to personalizing user experiences. My projects are designed to reflect the full lifecycle of an AI application, encompassing everything from data collection and model training to deployment, monitoring, and continuous improvement. This approach allows me to develop a versatile skill set that goes beyond just building models, focusing on how AI can be leveraged to drive tangible business outcomes.
 
 Beyond the code, I bring a collaborative approach, a creative mindset, and a strong drive for personal and professional growth.
+
 <h3 align="center">Thank you for your time. Feel free to explore my Projects.</h3>
   
