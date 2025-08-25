@@ -49,5 +49,12 @@ My work is driven by the goal of using AI to solve complex business challenges, 
 
 Beyond the code, I bring a collaborative approach, a creative mindset, and a strong drive for personal and professional growth.
 
-<h3 align="center">Thank you for your time. Feel free to explore my Projects.</h3>
+<h3> Contact me </h3>
+<ul>
+   <li>Linkedin : www.linkedin.com/in/yakob-bereket </li>
+   <li>Telegram : https://t.me/Professionalaccounttelegram </li>
+   
+</ul>
+
+<h3 align="center">Thank you for your time.</h3>
   
