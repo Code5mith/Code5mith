@@ -39,7 +39,7 @@ Hello! I'm <b> Code Smith </b> , a Backend Developer with a solid foundation in 
 
 <h3> Proficient in: </h3>
 <ul>
-   <li> <b> Languages: </b> Python, C, PHP, JavaScript </li>
+   <li> <b> Languages: </b> Python, C, PHP, Go lang </li>
    <li> <b> Frameworks: </b> Django, Flask, Laravel, FastAPI, Langchain </li>
 </ul>
 
