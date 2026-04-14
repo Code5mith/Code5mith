@@ -46,16 +46,6 @@ Hello! I'm <b> Code Smith </b> , a Backend Developer with a solid foundation in 
 
 As a backend developer, I specialize in building robust and performant systems. My expertise lies in architecting the core infrastructure for mission-critical applications, establishing efficient data pipelines, and designing the APIs necessary to power complex services in production environments.
 
-My work is driven by the goal of solving multifaceted engineering challenges with efficient and well-structured solutions. I focus on a systematic approach to problem-solving, breaking down complex requirements into foundational components and architecting solutions with optimal performance. This allows me to develop a versatile skill set that goes beyond specific application domains, focusing on how technology can be leveraged to drive tangible business outcomes, including the productive integration of AI where it adds value.
-
-Beyond the code, I bring a collaborative approach and a structured and creative mindset for problem-solving. I have a strong drive for personal and professional growth, constantly seeking to refine my craft and take on new intellectual challenges.
-
-<h3> Contact me </h3>
-<ul>
-   <li>Linkedin : www.linkedin.com/in/yakob-bereket </li>
-   <li>Telegram : https://t.me/Professionalaccounttelegram </li>
-   
-</ul>
 
 <h3 align="center">Thank you for your time.</h3>
   
