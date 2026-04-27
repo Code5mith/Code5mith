@@ -44,8 +44,4 @@ Hello! I'm <b> Code Smith </b> , a Backend Developer with a solid foundation in 
    <li> <b> Frameworks: </b> Django, Flask, Laravel, FastAPI, Langchain </li>
 </ul>
 
-As a backend developer, I specialize in building robust and performant systems. My expertise lies in architecting the core infrastructure for mission-critical applications, establishing efficient data pipelines, and designing the APIs necessary to power complex services in production environments.
-
-
-<h3 align="center">Thank you for your time.</h3>
   
