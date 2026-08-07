@@ -1,6 +1,5 @@
 # <h1> Code Smith </h1>
 
-
 <h3> Hello there, welcome to my portfolio.</h3>
 ---
 
@@ -30,14 +29,6 @@
 <br />
 <p></p> 
    
- <summary><h3>👨‍💻 Code Smith</h3></summary>
+<summary><h3>👨‍💻 Code Smith</h3></summary>
  
 Hello! I'm <b> Code Smith </b> , a Backend Developer with a solid foundation in computer science fundamentals.
-
-<h3> Proficient in: </h3>
-<ul>
-   <li> <b> Languages: </b> Python, C, PHP, Go lang </li>
-   <li> <b> Frameworks: </b> Django, Flask, Laravel, FastAPI, Langchain </li>
-</ul>
-
-  
