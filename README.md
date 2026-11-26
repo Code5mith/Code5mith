@@ -1,6 +1,6 @@
-# <h1> Code Smith </h1>
+# <h1> Ling Long </h1>
 
-<h3> Hello there, welcome to my portfolio.</h3>
+<h3> Developer </h3>
 ---
 
 ### 🧰 Languages and Tools
@@ -28,7 +28,3 @@
 
 <br />
 <p></p> 
-   
-<summary><h3>👨‍💻 Code Smith</h3></summary>
- 
-Hello! I'm <b> Code Smith </b> , a Backend Developer with a solid foundation in computer science fundamentals.
